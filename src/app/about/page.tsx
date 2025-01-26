@@ -19,12 +19,12 @@ const About = () => {
           <p className="leading-relaxed text-lg">
             Hey there! I'm a passionate writer, aspiring web developer, and UI
             enthusiast who loves blending creativity with functionality.
-            Currently, I’m pursuing a degree in Business Management, which gives
+            Currently, I'm pursuing a degree in Business Management, which gives
             me a unique perspective on how design and technology can shape the
             modern business world. Writing is my way of connecting with people,
             while coding lets me bring ideas to life in the digital space. When
-            I’m not learning new programming skills or exploring UI trends,
-            you’ll find me diving into books or enjoying the small moments that
+            I'm not learning new programming skills or exploring UI trends,
+            you'll find me diving into books or enjoying the small moments that
             make life beautiful. Join me as I navigate this exciting journey of
             growth, creativity, and endless possibilities!
           </p>
