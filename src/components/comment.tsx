@@ -73,7 +73,7 @@ const CommentBox = () => {
           All Comments
         </h2>
         {comments.length === 0 ? (
-          <p>There's No Comment Yet!</p>
+          <p>There is No Comment Yet!</p>
         ) : (
           <ul>
             {comments.map((data, index) => (
